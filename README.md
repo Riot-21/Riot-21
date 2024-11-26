@@ -8,14 +8,14 @@ I'm a **Software Engineering student** in my 7th semester at **University of Per
 - 💡 Learning new technologies
 
 ## 🌱 I’m currently learning
-- **Advanced React** and **Angular**
+- **React** and **Angular**
 - **Databases** (MySQL, SQL)
 - **API development** (RESTful APIs)
 
-## 💞️ I’m looking to collaborate on
-- Web development projects, especially those focusing on **React**, **Spring Boot**, and **Java**.
-- **Open-source contributions**.
-- **Backend development** and **API integrations**.
+## 🌐 I’m looking to collaborate on
+- Web development projects, including both **frontend** and **backend** solutions. 
+- **Full-stack** applications, working with technologies like **React**, **Angular**, **Spring Boot**, and **Java**. 
+- **Open-source contributions** and collaborative projects that enhance my skills and allow me to learn from others. 
 
 ## 📫 How to reach me
 - Email: [percybj6@example.com](mailto:your-email@example.com)
@@ -43,8 +43,6 @@ I'm a **Software Engineering student** in my 7th semester at **University of Per
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## 😄 Pronouns:
-- He/Him
 
 ## ⚡ Fun fact:
 - I love solving **algorithmic problems** and challenging myself to build more efficient solutions!
